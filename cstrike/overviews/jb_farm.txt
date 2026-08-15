@@ -1,0 +1,16 @@
+// overview description file for jb_farm
+
+global 
+{
+	ZOOM	0.77
+	ORIGIN	320.34 	1.77	-623.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/jb_farm.bmp"
+	HEIGHT	-623.00
+}
+
+// Overview: Zoom 0.77, Map Origin (320.34, 1.77, -623.00), Z Min 2561.00, Z Max -3807.00, Rotated 1
